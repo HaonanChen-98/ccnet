@@ -1,0 +1,139 @@
+
+---------------------------------------------------------
+model: NCAD, dataset: SWaT_cut, 5runs, 03-13 19.28.19
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 03-13 20.11.03
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9901, 0.0064, 0.8063, 0.0753, 0.8406, 0.0784, 0.8933, 0.0566, 0.8121, 0.1409, 44.0, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 04-03 09.36.09
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 04-09 20.54.21
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9901, 0.0064, 0.8063, 0.0753, 0.8406, 0.0784, 0.8933, 0.0566, 0.8121, 0.1409, 29.4, NCAD, {'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9872, 0.0101, 0.9526, 0.0243, 0.9460, 0.0052, 0.9477, 0.0147, 0.9449, 0.0201, 155.6, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-05 17.01.19
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-05 17.08.14
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9901, 0.0064, 0.8063, 0.0753, 0.8406, 0.0784, 0.8933, 0.0566, 0.8121, 0.1409, 147.3, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-22 21.21.57
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-27 09.06.53
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-27 17.43.23
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9879, 0.0137, 0.8277, 0.0850, 0.8571, 0.0724, 0.8209, 0.0788, 0.8991, 0.0763, 20.1, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-28 10.34.05
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9941, 0.0041, 0.8025, 0.0999, 0.8195, 0.0982, 0.7633, 0.1324, 0.8991, 0.0763, 20.7, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-29 20.57.53
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-29 20.59.03
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-29 22.08.42
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9891, 0.0124, 0.8383, 0.0681, 0.8588, 0.0561, 0.8244, 0.0556, 0.8991, 0.0763, 23.6, NCAD, {'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9831, 0.0108, 0.9540, 0.0292, 0.9385, 0.0102, 0.9414, 0.0297, 0.9376, 0.0351, 133.2, NCAD, {'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 05-30 14.45.21
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 20.13.33
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: NCAD, dataset: SMD_selected,MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-09 21.38.37
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9931, 0.0039, 0.8287, 0.0522, 0.8524, 0.0338, 0.8420, 0.0549, 0.8680, 0.0623, 24.9, NCAD, {'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9378, 0.0039, 0.7895, 0.0223, 0.8129, 0.0094, 0.7841, 0.0330, 0.8467, 0.0342, 20.0, NCAD, {'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9302, 0.0142, 0.8366, 0.0076, 0.8334, 0.0035, 0.8770, 0.0118, 0.7941, 0.0058, 54.5, NCAD, {'seq_len': 30, 'stride': 10} 

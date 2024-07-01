@@ -1,0 +1,2268 @@
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 20.18.21
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.07.28
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.20.10
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.23.33
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.33.08
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-08 21.58.41
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9343, 0.0005, 0.2884, 0.0070, 0.3828, 0.0015, 0.9891, 0.0194, 0.2373, 0.0000, 6807.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-09 21.07.55
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  128
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9361, 0.0036, 0.2907, 0.0079, 0.3812, 0.0042, 0.9707, 0.0513, 0.2373, 0.0000, 9.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.8587, 0.0013, 0.3358, 0.0018, 0.5666, 0.0065, 0.4033, 0.0061, 0.9518, 0.0073, 6.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.8862, 0.0082, 0.5875, 0.0532, 0.7078, 0.0098, 0.7662, 0.0250, 0.6581, 0.0025, 16.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.8859, 0.0035, 0.8252, 0.0039, 0.8319, 0.0090, 0.9747, 0.0124, 0.7260, 0.0185, 52.3, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9779, 0.0027, 0.9647, 0.0050, 0.9349, 0.0073, 0.9054, 0.0200, 0.9676, 0.0285, 2.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9899, 0.0050, 0.9755, 0.0127, 0.9334, 0.0154, 0.9116, 0.0261, 0.9567, 0.0058, 66.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 128, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+
+
+
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-10 00.05.03
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		 64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+cc-atte
+SMD_selected_combined, 0.9345, 0.0008, 0.2894, 0.0031, 0.3829, 0.0014, 0.9910, 0.0179, 0.2373, 0.0000, 693.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10}
+MSL_combined, 0.8611, 0.0020, 0.3386, 0.0027, 0.5638, 0.0100, 0.4021, 0.0064, 0.9440, 0.0322, 476.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.8995, 0.0277, 0.5650, 0.0193, 0.6948, 0.0038, 0.7420, 0.0142, 0.6535, 0.0081, 1293.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.8905, 0.0186, 0.8164, 0.0165, 0.8254, 0.0026, 0.9780, 0.0191, 0.7143, 0.0106, 3793.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9829, 0.0047, 0.9730, 0.0089, 0.9452, 0.0092, 0.9159, 0.0120, 0.9765, 0.0072, 207.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9899, 0.0093, 0.9806, 0.0139, 0.9375, 0.0282, 0.9442, 0.0104, 0.9328, 0.0548, 4594.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+self-atte
+SMD_selected_combined, 0.9342, 0.0004, 0.2846, 0.0061, 0.3807, 0.0035, 0.9428, 0.0680, 0.2388, 0.0030, 12.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.8593, 0.0008, 0.3351, 0.0012, 0.5678, 0.0096, 0.4043, 0.0105, 0.9542, 0.0121, 9.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9044, 0.0173, 0.5665, 0.0091, 0.7098, 0.0067, 0.7779, 0.0193, 0.6530, 0.0074, 25.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.8937, 0.0059, 0.8314, 0.0042, 0.8351, 0.0077, 0.9348, 0.0295, 0.7557, 0.0193, 72.0, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9805, 0.0014, 0.9698, 0.0029, 0.9418, 0.0049, 0.9235, 0.0194, 0.9618, 0.0220, 3.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9851, 0.0107, 0.9668, 0.0201, 0.9170, 0.0360, 0.9042, 0.0287, 0.9307, 0.0471, 87.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-14 12.04.52
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+self-atte+freq
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9577, 0.0056, 0.3289, 0.1471, 0.4194, 0.1640, 0.5334, 0.3125, 0.4663, 0.1575, 18.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.8285, 0.0056, 0.3649, 0.0391, 0.4601, 0.0044, 0.3065, 0.0043, 0.9235, 0.0286, 14.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9515, 0.0117, 0.8008, 0.0387, 0.7783, 0.0260, 0.7361, 0.0777, 0.8416, 0.0757, 36.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.8867, 0.0117, 0.8137, 0.0113, 0.8254, 0.0011, 0.9875, 0.0064, 0.7091, 0.0040, 171.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9611, 0.0090, 0.9312, 0.0175, 0.9150, 0.0118, 0.8706, 0.0178, 0.9647, 0.0199, 3.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.8688, 0.0462, 0.7616, 0.0850, 0.7230, 0.0558, 0.6987, 0.0695, 0.7528, 0.0576, 294.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,MSL,SMAP,SWaT_cut,EP,DASADS, 5runs, 06-14 12.51.58
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9753, 0.0115, 0.5933, 0.1214, 0.6894, 0.1170, 0.9144, 0.0232, 0.5686, 0.1409, 691.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9286, 0.0083, 0.6194, 0.0136, 0.6512, 0.0245, 0.5466, 0.0604, 0.8376, 0.1184, 479.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.8715, 0.0204, 0.7032, 0.0072, 0.6603, 0.0192, 0.7769, 0.1423, 0.6125, 0.1228, 1302.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9117, 0.0383, 0.8419, 0.0400, 0.8371, 0.0175, 0.9487, 0.0375, 0.7527, 0.0508, 3877.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9611, 0.0049, 0.9303, 0.0100, 0.9168, 0.0055, 0.8643, 0.0115, 0.9765, 0.0150, 207.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.8636, 0.0393, 0.7525, 0.0800, 0.7042, 0.0508, 0.6720, 0.0843, 0.7535, 0.0733, 4957.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,ASD,EP,MSL,SMAP,SWaT_cut,DASADS, 5runs, 06-15 09.48.36
+Parameters,	 [network], 		  Transformer(cc-atte+freq(2))
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9859, 0.0034, 0.4270, 0.1510, 0.5275, 0.1145, 0.4232, 0.1424, 0.7634, 0.0670, 698.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9701, 0.0023, 0.6241, 0.0134, 0.6449, 0.0170, 0.6079, 0.0601, 0.6964, 0.0479, 787.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+EP, 0.9969, 0.0011, 0.9943, 0.0024, 0.9886, 0.0033, 0.9774, 0.0065, 1.0000, 0.0000, 207.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9955, 0.0007, 0.9566, 0.0065, 0.9198, 0.0172, 0.8890, 0.0306, 0.9539, 0.0226, 486.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9988, 0.0000, 0.9906, 0.0008, 0.9645, 0.0036, 0.9670, 0.0108, 0.9622, 0.0129, 1334.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SWaT_cut, 5runs, 06-15 23.10.33
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SWaT_cut, 0.9993, 0.0001, 0.9948, 0.0007, 0.9725, 0.0020, 0.9616, 0.0063, 0.9837, 0.0090, 4840.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: CC,PSM,DASADS,MBA, 5runs, 06-16 11.18.54
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+CC, 0.5398, 0.0179, 0.0025, 0.0003, 0.0113, 0.0087, 0.0114, 0.0149, 0.0643, 0.0665, 1129.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+PSM, 0.9977, 0.0001, 0.9954, 0.0003, 0.9792, 0.0025, 0.9765, 0.0088, 0.9819, 0.0044, 1036.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,PSM, 5runs, 06-16 16.32.37
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9755, 0.0031, 0.9525, 0.0063, 0.9411, 0.0120, 0.9086, 0.0211, 0.9765, 0.0150, 272.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,ASD,CC,DASADS,MSL,MBA,SMAP,SWaT_cut, 5runs, 06-16 17.27.03
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9724, 0.0056, 0.6186, 0.0250, 0.7198, 0.0120, 0.9159, 0.0382, 0.5933, 0.0000, 1443.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9440, 0.0081, 0.6189, 0.0448, 0.5768, 0.0363, 0.5605, 0.0749, 0.6171, 0.0918, 1269.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+CC, 0.7174, 0.0543, 0.0458, 0.0139, 0.1112, 0.0283, 0.1758, 0.0679, 0.0984, 0.0460, 926.0, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9511, 0.0246, 0.8904, 0.0601, 0.8292, 0.0393, 0.7996, 0.0573, 0.8626, 0.0272, 4983.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9060, 0.0038, 0.5868, 0.0171, 0.6052, 0.0243, 0.4895, 0.0494, 0.8174, 0.1011, 484.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMAP,SWaT_cut, 5runs, 06-18 11.03.26
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMAP_combined, 0.9612, 0.0065, 0.8287, 0.0187, 0.7687, 0.0160, 0.8326, 0.0464, 0.7153, 0.0069, 1361.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SWaT_cut, 5runs, 06-18 17.02.45
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SWaT_cut, 0.9039, 0.0234, 0.8263, 0.0387, 0.8316, 0.0220, 0.9603, 0.0444, 0.7392, 0.0670, 4104.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,ASD,CC,DASADS,MSL,SWaT_cut,MBA,SMAP, 5runs, 06-19 00.51.36
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+SMD_selected_combined, 0.9965, 0.0017, 0.7814, 0.0577, 0.7759, 0.0664, 0.7480, 0.0492, 0.8198, 0.1335, 46.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9810, 0.0025, 0.8104, 0.0179, 0.7875, 0.0097, 0.8159, 0.0450, 0.7640, 0.0277, 40.0, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+CC, 0.8183, 0.0958, 0.0686, 0.0495, 0.1595, 0.0754, 0.1562, 0.0943, 0.1736, 0.0600, 46.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9951, 0.0011, 0.9835, 0.0038, 0.9647, 0.0089, 0.9486, 0.0130, 0.9814, 0.0076, 614.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9677, 0.0042, 0.8703, 0.0158, 0.8280, 0.0138, 0.8131, 0.0406, 0.8473, 0.0414, 25.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9941, 0.0049, 0.9722, 0.0163, 0.9305, 0.0211, 0.9395, 0.0187, 0.9232, 0.0446, 297.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MBA_combined, 0.9276, 0.0279, 0.4590, 0.1135, 0.5076, 0.1022, 0.4532, 0.1152, 0.5925, 0.1083, 682.2, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9766, 0.0038, 0.8914, 0.0191, 0.8309, 0.0452, 0.9042, 0.0808, 0.7795, 0.0821, 56.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-19 08.18.11
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9978, 0.0001, 0.9960, 0.0004, 0.9898, 0.0024, 0.9826, 0.0053, 0.9971, 0.0059, 5.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,SMD_selected,ASD,CC,MSL,SMAP,SWaT_cut,DASADS, 5runs, 06-19 08.24.49
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9976, 0.0002, 0.9957, 0.0005, 0.9896, 0.0026, 0.9824, 0.0025, 0.9971, 0.0059, 212.3, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMD_selected_combined, 0.9908, 0.0078, 0.6869, 0.1071, 0.6891, 0.0918, 0.7272, 0.0850, 0.6623, 0.1200, 718.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9782, 0.0034, 0.8044, 0.0296, 0.7675, 0.0417, 0.7941, 0.0827, 0.7524, 0.0608, 816.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+CC, 0.9001, 0.0305, 0.1405, 0.0946, 0.2405, 0.0918, 0.2413, 0.1157, 0.2555, 0.0710, 924.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9590, 0.0050, 0.8119, 0.0341, 0.8006, 0.0282, 0.7961, 0.0434, 0.8099, 0.0571, 492.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9751, 0.0045, 0.8965, 0.0181, 0.8390, 0.0404, 0.8854, 0.0827, 0.8060, 0.0636, 1332.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9910, 0.0022, 0.9599, 0.0076, 0.9058, 0.0165, 0.9567, 0.0161, 0.8613, 0.0361, 4078.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9958, 0.0008, 0.9856, 0.0028, 0.9690, 0.0053, 0.9549, 0.0115, 0.9836, 0.0049, 5521.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,CC,SMAP,SWaT_cut,DASADS, 5runs, 06-20 16.17.00
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+直接拼接self
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9976, 0.0003, 0.9959, 0.0006, 0.9886, 0.0034, 0.9804, 0.0051, 0.9971, 0.0059, 4.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.9680, 0.0037, 0.8575, 0.0199, 0.8281, 0.0156, 0.8226, 0.0561, 0.8439, 0.0759, 17.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMD_selected_combined, 0.9945, 0.0037, 0.7241, 0.1054, 0.7017, 0.1226, 0.6852, 0.1375, 0.7345, 0.1352, 36.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9793, 0.0051, 0.8120, 0.0356, 0.7848, 0.0439, 0.8613, 0.0451, 0.7268, 0.0763, 21.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+CC, 0.8660, 0.0338, 0.0755, 0.0694, 0.1584, 0.0795, 0.1605, 0.1177, 0.1714, 0.0536, 30.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9746, 0.0059, 0.8886, 0.0181, 0.8211, 0.0317, 0.8988, 0.0714, 0.7652, 0.0734, 48.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9970, 0.0017, 0.9822, 0.0088, 0.9370, 0.0170, 0.9560, 0.0227, 0.9199, 0.0354, 269.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9952, 0.0011, 0.9838, 0.0029, 0.9665, 0.0087, 0.9505, 0.0109, 0.9832, 0.0072, 399.0, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: DASADS, 5runs, 06-21 19.55.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: DASADS, 5runs, 06-21 19.57.01
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+DASADS_combined, 0.9941, 0.0008, 0.9788, 0.0028, 0.9667, 0.0046, 0.9508, 0.0046, 0.9832, 0.0103, 320.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: DASADS, 5runs, 06-21 20.36.47
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+DASADS_combined, 0.8633, 0.0403, 0.7529, 0.0850, 0.7042, 0.0552, 0.6801, 0.0893, 0.7372, 0.0410, 4976.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-22 11.47.28
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9611, 0.0049, 0.9303, 0.0100, 0.9168, 0.0055, 0.8643, 0.0115, 0.9765, 0.0150, 228.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.39.08
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.42.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.52.02
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.52.31
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.53.09
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.53.46
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.54.17
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.59.01
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 20.59.29
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.01.34
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.05.33
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.05.57
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.07.43
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.14.43
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.18.15
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.22.15
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.26.00
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9968, 0.0004, 0.9938, 0.0007, 0.9896, 0.0011, 0.9794, 0.0021, 1.0000, 0.0000, 58.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.35.11
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.36.22
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.37.14
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.37.57
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.38.04
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.38.12
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.40.00
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.42.42
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.43.31
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 21.43.55
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  100
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9939, 0.0010, 0.9907, 0.0013, 0.9722, 0.0067, 0.9598, 0.0122, 0.9853, 0.0132, 119.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 100, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 22.02.31
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-26 22.04.05
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9964, 0.0005, 0.9939, 0.0008, 0.9855, 0.0043, 0.9770, 0.0046, 0.9941, 0.0072, 96.6, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 50, 'stride': 10} 
+
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.02.59
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.06.00
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.08.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.10.40
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.13.29
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.16.26
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  50
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9962, 0.0006, 0.9935, 0.0012, 0.9848, 0.0044, 0.9757, 0.0045, 0.9941, 0.0072, 12.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 50, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.20.00
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP, 5runs, 06-27 08.20.23
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9968, 0.0002, 0.9940, 0.0005, 0.9897, 0.0013, 0.9796, 0.0025, 1.0000, 0.0000, 10.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.22.25
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.23.04
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.23.25
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.25.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.27.24
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.27.39
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.28.42
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.29.12
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.30.43
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 08.33.54
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+MSL_combined, 0.9779, 0.0008, 0.8777, 0.0084, 0.8552, 0.0111, 0.8495, 0.0451, 0.8655, 0.0450, 133.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMD_selected_combined, 0.9272, 0.0027, 0.2040, 0.0698, 0.3221, 0.0529, 0.6006, 0.2916, 0.2373, 0.0000, 180.9, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+ASD_combined, 0.9804, 0.0029, 0.7962, 0.0210, 0.7100, 0.0262, 0.7176, 0.0628, 0.7103, 0.0531, 159.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SMAP_combined, 0.9546, 0.0047, 0.8185, 0.0185, 0.7362, 0.0221, 0.6626, 0.0390, 0.8327, 0.0467, 334.5, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+SWaT_cut, 0.9892, 0.0131, 0.9626, 0.0274, 0.9219, 0.0247, 0.9533, 0.0111, 0.8932, 0.0388, 1171.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+DASADS_combined, 0.9953, 0.0011, 0.9840, 0.0044, 0.9652, 0.0055, 0.9494, 0.0123, 0.9817, 0.0042, 2274.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 19.47.09
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 19.48.51
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.29.12
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.31.55
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.41.04
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.56.13
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.57.41
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 20.59.28
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 21.00.55
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 21.03.32
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 21.04.07
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 21.20.52
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 22.27.34
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 23.38.47
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 23.40.30
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 23.41.32
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 23.48.45
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-27 23.49.42
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.36.59
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.44.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.48.21
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.51.28
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.52.07
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.52.38
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.53.18
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.54.22
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.54.49
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.56.44
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 11.57.47
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.01.05
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.02.04
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.15.20
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.18.45
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.19.51
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.21.17
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.21.29
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 12.25.27
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 16.43.07
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.26.05
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.26.42
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.39.20
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.39.50
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.43.29
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.45.38
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.51.53
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 06-28 22.52.22
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 07.41.40
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 07.42.13
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 07.45.27
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 07.50.35
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 07.54.05
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 08.03.58
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  32
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 08.19.17
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 08.34.19
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 08.34.27
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 08.36.13
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 09.03.02
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  4
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9443, 0.0066, 0.9030, 0.0106, 0.9105, 0.0104, 0.8600, 0.0185, 0.9676, 0.0110, 130.3, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': 4, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.8462, 0.0021, 0.3204, 0.0023, 0.5392, 0.0117, 0.3822, 0.0124, 0.9171, 0.0367, 273.8, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': 4, 'seq_len': 30, 'stride': 10} 
+SMD_selected_combined, 0.9182, 0.0064, 0.2793, 0.0075, 0.3827, 0.0016, 0.9881, 0.0213, 0.2373, 0.0000, 354.7, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': 4, 'seq_len': 30, 'stride': 10} 
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.15.19
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.16.09
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.16.46
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.17.08
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.19.04
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDDTS, dataset: EP,MSL,SMD_selected,ASD,SMAP,SWaT_cut,DASADS, 5runs, 07-01 10.19.20
+Parameters,	 [network], 		  Transformer
+Parameters,	 [rep_dim], 		  64
+Parameters,	 [hidden_dims], 		  512
+Parameters,	 [act], 		  GELU
+Parameters,	 [lr], 		  1e-05
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [epoch_steps], 		  -1
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+EP, 0.9849, 0.0027, 0.9762, 0.0049, 0.9498, 0.0047, 0.9301, 0.0065, 0.9706, 0.0132, 530.4, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 
+MSL_combined, 0.8611, 0.0008, 0.3372, 0.0004, 0.5598, 0.0100, 0.3991, 0.0107, 0.9379, 0.0149, 1218.1, DeepSVDDTS, {'network': 'Transformer', 'rep_dim': 64, 'hidden_dims': 512, 'act': 'GELU', 'lr': 1e-05, 'epochs': 20, 'batch_size': 64, 'epoch_steps': -1, 'seq_len': 30, 'stride': 10} 

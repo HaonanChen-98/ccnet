@@ -1,0 +1,135 @@
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 09.47.46
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 09.49.38
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 09.51.50
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 10.06.28
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 10.13.11
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 10.13.58
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-08 11.16.12
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-10 15.55.30
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: TcnED, dataset: SWaT_cut, 5runs, 03-10 16.04.55
+Parameters,	 [epochs], 		  100
+Parameters,	 [lr], 		  0.00015
+Parameters,	 [dropout], 		  0.42
+Parameters,	 [kernel_size], 		  2
+Parameters,	 [rep_dim], 		  8
+Parameters,	 [hidden_dims], 		  8,8
+Parameters,	 [batch_size], 		  512
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model

@@ -1,0 +1,40 @@
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time
+
+---------------------------------------------------------
+model: DeepSVDD, collection: SWaT_cut, datasets: FULL, normalization: min-max, 5runs, 
+---------------------------------------------------------
+data, auc-roc, std, auc-pr, std, f1, std, time

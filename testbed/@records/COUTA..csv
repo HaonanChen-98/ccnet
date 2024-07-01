@@ -1,0 +1,15 @@
+
+---------------------------------------------------------
+model: COUTA, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.35.48
+Parameters,	 [neg_batch_ratio], 		  0.2
+Parameters,	 [alpha], 		  0.1
+Parameters,	 [rep_dim], 		  16
+Parameters,	 [hidden_dims], 		  16
+Parameters,	 [lr], 		  0.0001
+Parameters,	 [epochs], 		  20
+Parameters,	 [batch_size], 		  64
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model

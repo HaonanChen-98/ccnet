@@ -1,0 +1,16 @@
+
+---------------------------------------------------------
+model: DeepSVDD, dataset: SWaT_cut, 5runs, 03-08 09.38.01
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
+
+---------------------------------------------------------
+model: DeepSVDD, dataset: SMD_selected,SWaT_cut, 5runs, 06-08 21.35.02
+Parameters,	 [seq_len], 		  30
+Parameters,	 [stride], 		  10
+Note: 
+---------------------------------------------------------
+data, adj_auroc, std, adj_ap, std, adj_f1, std, adj_p, std, adj_r, std, time, model
